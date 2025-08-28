@@ -1,6 +1,6 @@
-- 👋 Hello, I’m Josh KM
-- 👀 I’m really interested in coding
-- 🌱 I’m currently learning HTML5, CSS3, & JavaScript 
-- 💞️ I’m willing to collaborate on web design and mobile development projects
+- 👋 Hello, I’m Joshua KM
+- 👀 My interested is in software engineering
+- 🌱 Continuous Learner
+- 💞️ I’m willing to collaborate on projects
 - 📫 Contact: jkm2412@outlook.com
 
